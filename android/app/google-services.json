@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596714513995",
+    "project_id": "pfm-project-x-3e543",
+    "storage_bucket": "pfm-project-x-3e543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596714513995:android:01cf10009b5bb2e3268fce",
+        "android_client_info": {
+          "package_name": "com.venzo.personal_finance_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596714513995-i4fnh59h1abqq28jt3csh88dglv2lpoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhO5ArP1ay-cgQbhgjI_Orwi3OvqMqdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596714513995-i4fnh59h1abqq28jt3csh88dglv2lpoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
